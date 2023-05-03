@@ -10,7 +10,7 @@ To maintain the website, please follow these steps:
 
 2. Clone the gh-pages branch: 
 ```
-$ git clone -b gh-pages https://github.com/STACOM/stacom2023.git
+$ git clone -b gh-pages git@github.com:STACOM/stacom2023.git
 ```
 
 3. Follow Jekyll guidelines to build static pages: https://jekyllrb.com/docs/
