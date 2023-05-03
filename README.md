@@ -8,7 +8,10 @@ To maintain the website, please follow these steps:
 
 1. Make sure you have installed Jekyll on your local system; see: https://jekyllrb.com/
 
-2. Clone the gh-pages branch: https://github.com/STACOM/stacom2023.git
+2. Clone the gh-pages branch: 
+```
+$ git clone -b gh-pages https://github.com/STACOM/stacom2023.git
+```
 
 3. Follow Jekyll guidelines to build static pages: https://jekyllrb.com/docs/
 
