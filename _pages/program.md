@@ -6,7 +6,7 @@ classes:
   - wide
 permalink: /program/
 header:
-  image: /images/vancouver_01.jpg
+  image: /images/vancouver_03.jpg
 ---
 
 Coming Soon

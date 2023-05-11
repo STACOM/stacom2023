@@ -5,7 +5,7 @@ permalink: /contact/
 classes:
   - wide
 header:
-  image: /images/vancouver_01.jpg
+  image: /images/vancouver_05.jpg
 ---
 
 1. Alistair Young, King's College London, United Kingdom
@@ -15,3 +15,7 @@ header:
 5. Qian Tao, Delft University of Technology, the Netherlands
 6. Avan Suinesiaputra, King's College London, United Kingdom
 
+## Challenge organisers
+
+1. Chengyan Wang (CMRxRecon)
+2. Shou Wang (CMRxRecon)

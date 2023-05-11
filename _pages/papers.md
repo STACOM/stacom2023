@@ -6,7 +6,7 @@ author: stacom
 classes:
   - wide
 header:
-  image: /images/vancouver_01.jpg
+  image: /images/vancouver_02.jpg
 ---
 
 Coming Soon

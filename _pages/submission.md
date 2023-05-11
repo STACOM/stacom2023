@@ -6,10 +6,8 @@ author: stacom
 classes:
   - wide
 header:
-  image: /images/vancouver_01.jpg
+  image: /images/vancouver_04.jpg
 ---
-
-## Regular papers
 
 We accept regular papers describing new methods in the following (not limited) topics:
 
