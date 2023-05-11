@@ -17,5 +17,4 @@ header:
 
 ## Challenge organisers
 
-1. Chengyan Wang (CMRxRecon)
-2. Shou Wang (CMRxRecon)
+1. Chengyan Wang, Fudan University, China (CMRxRecon)
