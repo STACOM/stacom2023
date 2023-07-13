@@ -14,8 +14,14 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 
 STACOM 2023 hosts a challenge on reconstruction of cardiac MRI (CMRxRecon).
 
+Please note different timeline for this challenge:
+
+* 14 July :  abstract / placeholder submission on the [EquinOCS portal](submission)
+* 14 August : paper submission by email to the organisers
+
+
 [![image]({{ "/images/CMRxRecon-Poster.jpg" | relative_url }}){: style="float:left; width:30%; height:30%; margin-right:10px; margin-top: 10px;"}]({{ "/images/CMRxRecon-Poster.jpg" | relative_url }}) There are two tasks in this challenge: 1) cine MRI reconstruction, and 2) mapping reconstruction; both with different acceleration factors of 4x, 8x, and 10x. 
 
 Dataset: A multi-channel k-space dataset of 300 cases, including short-axis, 2/3/4-chamber long-axis cine and T1/T2 mapping, with approximately 500,000 images.
 
-More information: [CMRxRecon](https://cmrxrecon.github.io/){:target="_blank"}
+See more information: [CMRxRecon](https://cmrxrecon.github.io/){:target="_blank"}
