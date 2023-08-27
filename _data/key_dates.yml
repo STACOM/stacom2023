@@ -13,8 +13,11 @@ items:
     item: 1 Oct
     text: Workshop-ready
   -
-    item: 12 Oct
-    text: Workshop
+    item: 8 Oct (afternoon)
+    text: CMRxRecon workshop
+  -
+    item: 12 Oct (morning)
+    text: STACOM Workshop
   -
     item: 12 Nov
     text: Proceeding-ready
