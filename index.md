@@ -14,9 +14,6 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 
 STACOM 2023 hosts a challenge on reconstruction of cardiac MRI (CMRxRecon). 
 
-{: .notice--danger}
-**NOTE**: There will be **separate workshops** during the MICCAI satellite events between STACOM workshop and CMRxRecon challenge workshop. Please see the key dates on the left sidebar.
-
 Please note different timeline for this challenge:
 
 * 14 July :  abstract / placeholder submission on the [EquinOCS portal](submission)
