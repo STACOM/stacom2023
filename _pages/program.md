@@ -9,4 +9,4 @@ header:
   image: /images/vancouver_03.jpg
 ---
 
-Coming Soon
+{% include schedule %}

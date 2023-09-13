@@ -9,4 +9,10 @@ header:
   image: /images/vancouver_02.jpg
 ---
 
-Coming Soon
+## Regular papers
+
+{% include regular %}
+
+## CMRxRecon challenge papers
+
+*coming soon*

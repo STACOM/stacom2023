@@ -1,0 +1,74 @@
+1. **Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy**
+  <br>Laura Alvarez Florez, Jörg Sander, Mimount Bourfiss, Fleur V. Y. Tjong, Birgitta K. Velthuis, Ivana Išgum
+
+1. **Deep Conditional Shape Models for 3D cardiac image segmentation**
+  <br>Athira Jacob, Puneet Sharma, Daniel Ruckert
+
+1. **Global Sensitivity Analysis of Thrombus Formation in the Left Atrial Appendage of Atrial Fibrillation Patients**
+  <br>Zineb Smine, Paolo Melidoro, Ahmed Qureshi, Stefano Longobardi,Steven  Williams, Oleg Aslanidi, Adelaide De Vecchi
+
+1. **Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI**
+  <br>Xinqi Li, Yi Zhang, Yidong Zhao, Jan van Gemert, Qian Tao
+
+1. **Impact of catheter orientation on cardiac radiofrequency ablation**
+  <br>Massimiliano Leoni, Argyrios Petras, Zoraida Moreno Weidmann, Jose M Guerra, Luca Gerardo Giorda
+
+1. **Effects of Fibrotic Border Zone on Drivers for Atrial Fibrillation: An In-Silico Mechanistic Investigation**
+  <br>Shaheim Ogbomo-Harmitt, George Obada, Nele Vandersickel, Andy King, Oleg Aslanidi
+
+1. **Automated Coronary Vessels Segmentation in X-ray Angiography Using Graph Attention Network**
+  <br>Haorui He, Abhirup Banerjee, Robin Choudhury, Vicente Grau
+
+1. **Inherent Atrial Fibrillation Vulnerability in the Appendages Exacerbated in Heart Failure**
+  <br>Shaleka Agrawal, Joseph Ashby, Jieyun Bai, Fan Feng, Xue Cai, Joseph Yanni, Sunil J.R.J. Logantha, Akbar Vohra, Antonio F. Corno, Caroline Jones, Robert C. Hutcheon, Halina Dobrzynski, Robert S.  Stephenson, Mark Boyett, George Hart, Jonathan Jarvis, Bruce Smaill, Jichao Zhao
+
+1. **NRSR-Net: Noise Reduction and Super Resolution Reconstruction for Low-dose CT Guided By Gradient**
+  <br>Ying Xu
+
+1. **Sparse annotation strategies for segmentation of short axis cardiac MRI**
+  <br>Josh Stein, Maxime Di Folco, Julia A. Schnabel
+
+1. **Deep Learning-based Pulmonary Artery Surface Mesh Generation**
+  <br>Nina Krüger, Jan Brüning, Leonid Goubergrits, Matthias Ivantsits, Lars Walczak, Volkmar Falk, Henryk Dreger, Titus Kühne, Anja Hennemuth
+
+1. **Generating Virtual Populations of 3D Cardiac Anatomies with Snowflake-Net**
+  <br>Jiachuan Peng, Marcel Beetz, Abhirup Banerjee, Vicente Grau, Min Chen
+
+1. **Exploring the relationship between pulmonary artery shape and pressure in Pulmonary Hypertension: A statistical shape analysis study**
+  <br>Malak Sabry, Uxio Hermida, Ahmed Hassan, Michael Nagy, David Stojanovski, Irini Samuel, John Locas, Magdi H. Yacoub, Adelaide De Vecchi, Pablo Lamata
+
+1. **Type and Shape Disentangled Generative Modeling for Congenital Heart Defects**
+  <br>Fanwei Kong, Alison Marsden
+
+1. **Automatic Landing Zone Plane Detection in Contrast-Enhanced Cardiac CT Volumes**
+  <br>Lisette Lockhart, Alborz ir-Khalili, Xin Yi, Alexandra Nunn, Nathan Cassady, Cory Swingen
+
+1. **Customizing Pre-Training Volumetric Transformers with Scaling Pyramid for 3D Cardiac Segmentation**
+  <br>Zhiyu Ye, Hairong Zheng, Tong Zhang
+
+1. **Voxel2Hemodynamics: An End-to-end Deep Learning Method for Predicting Coronary Artery Hemodynamics**
+  <br>Ziyu Ni, Linda Wei, Lijian Xu, Hongsheng  Li, Shaoting Zhang, Dimitris Metaxas
+
+1. **Automated quality-controlled left heart segmentation from 2D echocardiography**
+  <br>Bram Geven, Debbie Zhao, Stephen Creamer, Joshua Dillon, Gina Quill, Nicola Edwards, Malcolm Legget, Robert Doughty, Alistair Young, Thiranja P. Babarenda Gamage, Martyn Nash
+
+1. **Automated segmentation of the right ventricle from 3D echocardiography using labels from cardiac magnetic resonance imaging**
+  <br>Joshua Dillon, Debbie Zhao, Thiranja Prasad Babarenda Gamage, Gina Quill, Vicky Wang, Nicola Edwards, Timothy Sutton, Boris Lowe, Malcolm Legget, Robert Doughty, Alistair Young, Martyn Nash
+
+1. **Two-Stage Deep Learning Framework for Quality Assessment of Left Atrial Late Gadolinium Enhanced MRI Images**
+  <br>K M Arefeen Sultan, Benjamin Anders Orkild, Alan Morris, Eugene Kholmovski, Erik Bieging, Eugene Kwan, Ravi Ranjan, Edward DiBella, Shireen Elhabian
+
+1. **Neural Implicit Functions for 3D Shape Reconstruction from standard Cardiovascular Magnetic Resonance views**
+  <br>Marica Muffoletto, Hao Xu, Yiyang Xu, Steven Williams, Michelle C.  Williams, Karl Kunze, Radhouene Neji, Steven Niederer, Daniel Rueckert, Alistair Young
+
+1. **A Benchmarking Study of Deep Learning Approaches for Bi-atrial Segmentation on Late Gadolinium-Enhanced MRIs**
+  <br>Yongyao Tan, Fan Feng, Jichao Zhao
+
+1. **Patient Stratification Based on Fast Simulation of Cardiac Electrophysiology on Digital Twins**
+  <br>Dolors Serra, Pau Romero, Miguel Lozano, Ignacio Garcia-Fernandez, Diego Penela, Antonio Berruezo, Oscar Camara, Rafael Sebastian, Miguel Rodrigo
+
+1. **FM-Net: A Fully Automatic Deep Learning Pipeline for Epicardial Adipose Tissue Segmentation**
+  <br>Fan Feng, Carl-Johan Carlhäll, Yongyao Tan, Shaleka Agrawal, Peter Lundberg, Jieyun Bai, John Zhiyong Yang, Mark Trew, Jichao Zhao
+
+1. **Impact of hypertension on left ventricular pressure-strain loop characteristics and myocardial work**
+  <br>Stephen Creamer, Debbie Zhao, Gina Quill, Abdallah Hasaballa, Vicky Wang, Thiranja Babarenda Gamage, Nicola Edwards, Malcolm Legget, Boris Lowe, Robert Doughty, Satpal Arri, Peter Ruygrok, Alistair Young, Julian Paton, Gonzalo Maso Talou, Martyn Nash
