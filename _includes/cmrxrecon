@@ -1,0 +1,62 @@
+1. **ReconNext:A Encoder-Decoder Skip Cross Attention based approach to reconstruct Cardiac MRI**
+    <br>Ruiyi Li, Hanyuan Zheng and Rongjun Ge
+
+1. **DiffCMR: Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models**
+    <br>Tianqi Xiang, Wenjun Yue, Yiqun Lin, Jiewen Yang, Zhenkun Wang, Xiaomeng Li
+
+1. **T1 and T2 mapping reconstruction based on conditional DDPM**
+    <br>Yansong Li, Lulu Zhao, Yun Tian, and Shifeng Zhao
+
+1. **C3-Net: Complex-Valued Cascading Cross-Domain Convolutional Neural Network for Reconstructing Undersampled CMR Images**
+    <br>Quan Dou, Kang Yan, Sheng Chen, Zhixing Wang, Xue Feng, Craig H. Meyer
+
+1. **Accelerating Cardiac MRI via Deblurring without Sensitivity Estimation**
+    <br>Jin He, Weizhou Liu, Yun Tian, Shifeng Zhao
+
+1. **NoSENSE: Learned unrolled cardiac MRI reconstruction without explicit sensitivity maps**
+    <br>Felix Frederik Zimmermann; Andreas Kofler
+
+1. **T1/T2 relaxation temporal modelling from accelerated acquisitions using a Latent Transformer**
+    <br>Michael Tänzer, Fanwen Wang, Mengyun Qiao, Wenjia Bai, Daniel Rueckert, Guang Yang, Sonia Nielles-Vallespin
+
+1. **Space-Time Deformable Attention Parallel Imaging Reconstruction for Highly Accelerated Cardiac MRI**
+    <br>Lifeng Mei, Kexin Yang, Yi Li, Shoujin Huang, Yilong Liu, and Mengye Lyu
+
+1. **Learnable Objective Image Function for Accelerated MRI Reconstruction**
+    <br>Artem Razumov and Dmitry V. Dylov
+
+1. **Multi-Scale Inter-Frame Information Fusion Based Network for Cardiac MRI Reconstruction**
+    <br>Wenzhe Ding, Xiaohan Liu, Yong Sun, Yiming Liu and Yanwei Pang*
+
+1. **A Context-Encoders-based Generative Adversarial Networks for Cine Magnetic Resonance Imaging Reconstruction**
+    <br>Weihua Zhang, Mengshi Tang, Liqin Huang, Wei Li
+
+1. **Accelerated Cardiac Parametric Mapping using Deep Learning-Refined Subspace Models**
+    <br>Calder Sheagren, Brenden Kadota, Jaykumar Patel, Mark Chiew, and Graham Wright
+
+1. **Fill the K-Space and Refine the Image:Prompting for Dynamic and Multi-Contrast MRI Reconstruction**
+    <br>Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas
+
+1. **Deep Cardiac MRI Reconstruction with ADMM**
+    <br>George Yiasemis, Nikita Moriakov,  Jan-Jakob Sonke, Jonas Teuwen
+
+1. **Temporal Super-Resolution for Fast T1 Mapping**
+    <br>Xunkang Zhao, Jun Lyu, Fanwen Wang, Chengyan Wang, Jing Qin
+
+1. **Multi-level Temporal Information Sharing Transformer-based Feature Reuse Network for Cardiac MRI Reconstruction**
+    <br>Guangming Wang, Jun Lyu, Fanwen Wang, Chengyan Wang, Jing Qin
+
+1. **Relaxometry Guided Quantitative Cardiac Magnetic Resonance Image Reconstruction**
+    <br>Yidong Zhao; Yi Zhang; Qian Tao
+
+1. **k-t CLAIR: Self-Consistency Guided Multi-Prior Learning for Dynamic Parallel MR Image Reconstruction**
+    <br>Liping Zhang, Weitian Chen
+
+1. **Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**
+    <br>Yuyang Xue, Yuning Du, Gianluca Carloni, Eva Pachetti, Connor Jordan, Sotiorios A. Tsaftaris
+
+1. **CineJENSE: Simultaneous Cine MRI Image**
+    <br>Ziad Al-Haj Hemidi, Nora Vogt, Lucile Quillien, Christian Weihsbach, Mattias P. Heinrich, Julien Oster
+
+1. **Cardiac MRI reconstruction from undersampled k-space using double-stream IFFT and a denoising GNA-UNET pipeline**
+    <br>Julia Dietlmeier, Carles Garcia-Cabrera, Anam Hashmi, Kathleen M. Curran, Noel E. O'Connor

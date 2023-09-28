@@ -23,8 +23,13 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 
 The STACOM 2023 programme is split into morning session for the regular papers and afternoon session for the CMRxRecon challenge. 
 
+#### Morning session: regular papers
+
 {% include schedule %}
 
+#### Afternoon session: CMRxRecon challenge
+
+{% include schedule_cmrxrecon %}
 
 ### Cardiac MRI Reconstruction Challenge
 

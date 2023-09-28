@@ -15,4 +15,4 @@ header:
 
 ## CMRxRecon challenge papers
 
-*coming soon*
+{% include cmrxrecon %}
