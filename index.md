@@ -19,11 +19,12 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 **See [all accepted papers](papers)**
 {: .notice--info }
 
+<!--
 [Regular Papers (PDF)](https://emckclac-my.sharepoint.com/:b:/g/personal/k2145129_kcl_ac_uk/ES29X3G8XYFBqrtCV62NzskB0fhHK8xZL4naPAunkwKqmw?e=7Sfrxu){: .btn .btn--info .btn--large}
 [CMRxRecon Papers (PDF)](https://emckclac-my.sharepoint.com/:b:/g/personal/k2145129_kcl_ac_uk/EcmtOtiyO5pPo9geY-nWO_QBtc_3Zqs1sKgJdo6GE0rrwg?e=GE8Gg2 ){: .btn .btn--info .btn--large}
 <br>*only accessible for the workshop attendance*
 {: .text-center}
-
+-->
 
 ### Schedule
 

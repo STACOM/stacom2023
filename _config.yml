@@ -161,6 +161,9 @@ defaults:
       type: pages
     values:
       sidebar:
+      - image: images/978-3-031-52448-6.png
+        url: https://link.springer.com/book/10.1007/978-3-031-52448-6
+        new_target: true
       - table: key_dates
       - nav: sidelinks
 
